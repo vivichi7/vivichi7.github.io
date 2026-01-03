@@ -115,6 +115,10 @@ blockquote {
 /* links */
 
 a {
+  // color: var(--global-text-color);
+  color: #6666cc;
+  text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
   }
