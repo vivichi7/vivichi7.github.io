@@ -13,7 +13,7 @@ title                    : "Vivienne Bihe Chi"
 title_separator          : "-"
 name                     : &name "Vivienne Bihe Chi"
 description              : &description "Vivienne Chi's personal page"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://vicichi7.github.io # Replace with your actual GitHub Pages URL
+url                      : https://vivichi7.github.io # Replace with your actual GitHub Pages URL
 baseurl                  : "" # Keep as "" for user/organization site
 repository               : "vivichi7/vivichi7.github.io" # Replace with your GitHub username/repo
 
