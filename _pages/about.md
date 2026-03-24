@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<style> hr { margin: 0.05em 0 !important; } h2 { margin-top: 0.5em !important; margin-bottom: 0.1em !important; } p { margin-bottom: .5em !important; } ul { padding: 0 !important; margin: 0 !important; } </style>
-I'm a Postdoctoral Researcher in the Department of Computer and Information Science at the University of Pennsylvania, where I am advised by [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and [Sharath C. Guntuku](https://sharathg.cis.upenn.edu/), and affiliated with the [WorldBank](https://www.worldbank.org/en/topic/gender) and the [World Well-Being Project](https://www.wwbp.org/).
+<style> hr { margin: 0.05em 0 !important; } h2 { padding: 0.05em !important; margin-top: 0.5em !important; margin-bottom: 0.1em !important; } p { margin-bottom: 0 !important; } ul { padding: 0.05em !important;margin-top: 0.1em !important;  margin-bottom: 0 !important; } </style>
+I'm a Postdoctoral Researcher in the Computer and Information Science Department at the University of Pennsylvania, working with [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and [Sharath C. Guntuku](https://sharathg.cis.upenn.edu/). My research is affiliated with the [WorldBank](https://www.worldbank.org/en/topic/gender) and the [World Well-Being Project](https://www.wwbp.org/).
 
 My research focuses on trust, wellbeing, and social norms during human-agent interaction, contributing to the fields of Human-Robot Interaction (HRI), Human-Computer Interaction (HCI), and Computational Social Science (CSS).
 
@@ -18,7 +18,7 @@ Background & Experience
 <ul>
 <li>Ph.D. in Cognitive Science | Brown University, advised by <a href="https://vivo.brown.edu/display/bmalle">Bertram Malle</a></li>
 <li>B.S. in Computer Science and Cognitive Science (minors in Linguistics and German studies) | University of Michigan, advised by <a href="https://laird.engin.umich.edu/">John Laird</a></li>
-<li>Industry Research: <a href="https://gemini.google/about/">Google's Gemini</a> (Safety and Responsible AI); <a href="https://usa.honda-ri.com/">Honda Research Institute</a> (Human-Centered Intelligence)</li>
+<li>Industry Research: <a href="https://gemini.google/about/">Google Gemini</a> (Safety and Responsible AI); <a href="https://usa.honda-ri.com/">Honda Research Institute</a> (Human-Centered Intelligence)</li>
 </ul>
 </div>
 
@@ -69,14 +69,6 @@ My current work is organized around four key themes:-->
 </ul>
 </div>
 
-**Psychological Wellbeing & Agency**
-<div style="font-size: smaller; line-height: 1.2;">
-<ul style="list-style-type: circle;">
-<li>Auditing psychological harms in LLM emotional support (In Submission)</li>
-<li>AI-assisted goal-setting</li>
-</ul>
-</div>
-
 <!--**AI for Clinical Communication & Trust**-->
 **Trust and Learning in Healthcare & Education**
 <div style="font-size: smaller; line-height: 1.2;">
@@ -87,12 +79,22 @@ My current work is organized around four key themes:-->
 </ul>
 </div>
 
-**Norm Representation in Media**
+**Psychological Wellbeing & Agency**
+<div style="font-size: smaller; line-height: 1.2;">
+<ul style="list-style-type: circle;">
+<li>Auditing psychological harms in LLM emotional support (In Submission)</li>
+<li>Measuring gendered agency in global media (In Submission)</li>
+<li>AI-assisted goal-setting</li>
+
+</ul>
+</div>
+
+<!--**Norm Representation in Media**
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
 <li>Reconstructing gender values from film (In Submission)</li>
 </ul>
-</div>
+</div>-->
 
 **Prosocial Human-Robot Interaction**
 <div style="font-size: smaller; line-height: 1.2;">
