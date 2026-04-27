@@ -27,6 +27,7 @@ News
 ------
 <div style="font-size: smaller; line-height: 1.2;">
 <ul>
+<li>May 2026: presenting "Reconstructing Gender Values from Film: Digital Twins of Fictional Characters as Surveyable Agents" at the SocialLLM Workshop@ICWSM 2026-See you in LA!
 <li>Apr 2026: presenting paper <a href="https://arxiv.org/abs/2601.19304">Voice-Based Chatbots for English Speaking Practice in Multilingual Low-Resource Indian Schools: A Multi-Stakeholder Study</a> and chairing the <a href="https://programs.sigchi.org/chi/2026/program/session/225046">Synergistic with AI</a> session at CHI'26 in Barcelona</li>
 <li>Mar 2026: invited to present at the <a href="https://humanrobotinteraction.org/2026/special-session-by-meta/">Special Session by Meta at HRI'26</a></li>
 <li>Nov 2025: proposal selected for funding by the <a href="https://www.med.upenn.edu/kbjohnsonlab/look-pilots/#20261">Heyman AI Innovation Fund and AI-4-AI Lab @ Penn Medicine</a></li>
@@ -84,8 +85,7 @@ My current work is organized around four key themes:-->
 <ul style="list-style-type: circle;">
 <li>Auditing psychological harms in LLM emotional support (In Submission)</li>
 <li>Measuring gendered agency in global media (In Submission)</li>
-<li>AI-assisted goal-setting</li>
-
+<li>AI-assisted goal-setting (In Submission)</li>
 </ul>
 </div>
 
@@ -108,9 +108,9 @@ My current work is organized around four key themes:-->
 **Companion Robot for Older Adults**
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
-<li>Older adults’ understanding of signals communicated by robot companions for caregiving (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10736326/pdf/igad104.1985.pdf">Innovation in Aging</a>)</li>
 <li>Designing intuitively understandable nonverbal communication
-for consumer home companion robots (In Submission)</li>
+for consumer home companion robots (ICSR'26)</li>
+<li>Older adults’ understanding of signals communicated by robot companions for caregiving (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10736326/pdf/igad104.1985.pdf">Innovation in Aging</a>)</li>
 </ul>
 </div>
 
