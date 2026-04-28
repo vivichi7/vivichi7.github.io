@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<style> hr { margin: 0.05em 0 !important; } h2 { padding: 0.05em !important; margin-top: 0.5em !important; margin-bottom: 0.1em !important; } p { margin-bottom: 0 !important; } ul { padding: 0.05em !important;margin-top: 0.1em !important;  margin-bottom: 0 !important; } </style>
+<style> hr { margin: 0.05em 0 0.1em 0 !important; } h2 { padding: 0.05em !important; margin-top: 0.2em !important; margin-bottom: 0.1em !important; } p { margin-bottom: 0 !important; } ul { padding: 0.05em !important;margin-top: 0.1em !important;  margin-bottom: 0 !important; } .link-color { color: #6666cc; } </style>
 I'm a Postdoctoral Researcher in the Computer and Information Science Department at the University of Pennsylvania, working with [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and [Sharath C. Guntuku](https://sharathg.cis.upenn.edu/). My research is affiliated with the [WorldBank](https://www.worldbank.org/en/topic/gender) and the [World Well-Being Project](https://www.wwbp.org/).
 
 My research focuses on trust, wellbeing, and social norms during human-agent interaction, contributing to the fields of Human-Robot Interaction (HRI), Human-Computer Interaction (HCI), and Computational Social Science (CSS).
@@ -85,7 +85,7 @@ My current work is organized around four key themes:-->
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
 <li>Auditing psychological harms in LLM emotional support (Under Submission)</li>
-<li>Measuring gendered agency in global media (To appear at IC2S2 and SocialLLM Workshop@ICWSM. Preprint available.)</li>
+<li>Measuring gendered agency in global media (To appear at <a href="https://ic2s2-2026.org/">IC2S2</a> and <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a>. Preprint available.)</li>
 <li>AI-assisted goal-setting (Under Submission)</li>
 </ul>
 </div>
@@ -110,7 +110,8 @@ My current work is organized around four key themes:-->
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
 <li>Designing intuitively understandable nonverbal communication
-for consumer home companion robots (ICSR'26)</li>
+for consumer home companion robots  (<a href="https://icsr2026.uk/">ICSR'26</a>)</li> 
+<!-- (<span class="link-color">ICSR'26</span>)</li> -->
 <li>Older adults’ understanding of signals communicated by robot companions for caregiving (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10736326/pdf/igad104.1985.pdf">Innovation in Aging</a>)</li>
 </ul>
 </div>
