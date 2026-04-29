@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<style> hr { margin: 0.05em 0 0.1em 0 !important; } h2 { padding: 0.05em !important; margin-top: 0.2em !important; margin-bottom: 0.1em !important; } p { margin-bottom: 0 !important; } ul { padding: 0.05em !important;margin-top: 0.1em !important;  margin-bottom: 0 !important; } .link-color { color: #6666cc; } </style>
+<style> hr { margin: 0.05em 0 0.1em 0 !important; } h2 { padding: 0.05em !important; margin-top: 0.2em !important; margin-bottom: 0.2em !important; } p { margin-bottom: 0 !important; } ul { padding: 0.05em !important;margin-top: 0.1em !important;  margin-bottom: 0 !important; } .link-color { color: #6666cc; } </style>
 I'm a Postdoctoral Researcher in the Computer and Information Science Department at the University of Pennsylvania, working with [Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and [Sharath C. Guntuku](https://sharathg.cis.upenn.edu/). My research is affiliated with the [WorldBank](https://www.worldbank.org/en/topic/gender) and the [World Well-Being Project](https://www.wwbp.org/).
 
 My research focuses on trust, wellbeing, and social norms during human-agent interaction, contributing to the fields of Human-Robot Interaction (HRI), Human-Computer Interaction (HCI), and Computational Social Science (CSS).
@@ -27,8 +27,9 @@ News
 ------
 <div style="font-size: smaller; line-height: 1.2;">
 <ul>
-<li>July 2026: I'll be attending IC2S2 in Vermont to present some of my ongoing work-hope to see you there!</li>
-<li>May 2026: presenting "Reconstructing Gender Values from Film: Digital Twins of Fictional Characters as Surveyable Agents" at the SocialLLM Workshop@ICWSM 2026-See you in LA!</li>
+<li>July 2026: presenting "Characterizing How LLMs Respond Differently to Venting and Advice-seeking" at IC2S2 -See you in Vermont!</li>
+<!-- <li>July 2026: I'll be attending IC2S2 in Vermont to present my ongoing work "Characterizing-hope to see you there!</li> -->
+<li>May 2026: presenting "Reconstructing Gender Values from Film: Digital Twins of Fictional Characters as Surveyable Agents" at the SocialLLM Workshop@ICWSM -See you in LA!</li>
 <li>Apr 2026: presenting paper <a href="https://arxiv.org/abs/2601.19304">Voice-Based Chatbots for English Speaking Practice in Multilingual Low-Resource Indian Schools: A Multi-Stakeholder Study</a> and chairing the <a href="https://programs.sigchi.org/chi/2026/program/session/225046">Synergistic with AI</a> session at CHI'26 in Barcelona</li>
 <li>Mar 2026: invited to present at the <a href="https://humanrobotinteraction.org/2026/special-session-by-meta/">Special Session by Meta at HRI'26</a></li>
 <li>Nov 2025: proposal selected for funding by the <a href="https://www.med.upenn.edu/kbjohnsonlab/look-pilots/#20261">Heyman AI Innovation Fund and AI-4-AI Lab @ Penn Medicine</a></li>
@@ -84,8 +85,8 @@ My current work is organized around four key themes:-->
 **Psychological Wellbeing & Agency**
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
-<li>Auditing psychological harms in LLM emotional support (Under Submission)</li>
-<li>Measuring gendered agency in global media (To appear at <a href="https://ic2s2-2026.org/">IC2S2</a> and <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a>. Preprint available.)</li>
+<li>Auditing psychological harms in LLM emotional support (To appear at <a href="https://ic2s2-2026.org/">IC2S2</a>. Preprint available.)</li>
+<li>Measuring gendered agency in global media (To appear at <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a>. Preprint available.)</li>
 <li>AI-assisted goal-setting (Under Submission)</li>
 </ul>
 </div>
