@@ -30,7 +30,7 @@ News
 <li>July 2026: presenting "Characterizing How LLMs Respond Differently to Venting and Advice-seeking" at IC2S2 -See you in Vermont!</li>
 <!-- <li>July 2026: I'll be attending IC2S2 in Vermont to present my ongoing work "Characterizing-hope to see you there!</li> -->
 <li>May 2026: presenting "Reconstructing Gender Values from Film: Digital Twins of Fictional Characters as Surveyable Agents" at the SocialLLM Workshop@ICWSM -See you in LA!</li>
-<li>Apr 2026: presenting paper <a href="https://arxiv.org/abs/2601.19304">Voice-Based Chatbots for English Speaking Practice in Multilingual Low-Resource Indian Schools: A Multi-Stakeholder Study</a> and chairing the <a href="https://programs.sigchi.org/chi/2026/program/session/225046">Synergistic with AI</a> session at CHI'26 in Barcelona</li>
+<li>Apr 2026: presenting paper <a href="https://dl.acm.org/doi/10.1145/3772318.3791266">Voice-Based Chatbots for English Speaking Practice in Multilingual Low-Resource Indian Schools: A Multi-Stakeholder Study</a> and chairing the <a href="https://programs.sigchi.org/chi/2026/program/session/225046">Synergistic with AI</a> session at CHI'26 in Barcelona</li>
 <li>Mar 2026: invited to present at the <a href="https://humanrobotinteraction.org/2026/special-session-by-meta/">Special Session by Meta at HRI'26</a></li>
 <li>Nov 2025: proposal selected for funding by the <a href="https://www.med.upenn.edu/kbjohnsonlab/look-pilots/#20261">Heyman AI Innovation Fund and AI-4-AI Lab @ Penn Medicine</a></li>
 <li>Aug 2025: selected to participate in <a href="https://sicss.io/2025/stanford/people"> SICSS-Stanford</a></li>
