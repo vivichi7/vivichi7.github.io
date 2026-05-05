@@ -76,7 +76,7 @@ My current work is organized around four key themes:-->
 **Trust and Learning in Healthcare & Education**
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
-<li>Voice-based chatbots for multilingual low-resource schools (<a href="https://arxiv.org/abs/2601.19304">CHI'26</a>)</li>
+<li>Voice-based chatbots for multilingual low-resource schools (<a href="https://dl.acm.org/doi/10.1145/3772318.3791266">CHI'26</a>)</li>
 <li>Chatbot for palliative care communication training</li>
 <li>Mapping the dynamics of patient-doctor trust</li>
 </ul>
@@ -111,7 +111,7 @@ My current work is organized around four key themes:-->
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
 <li>Designing intuitively understandable nonverbal communication
-for consumer home companion robots  (<a href="https://icsr2026.uk/">ICSR'26</a>)</li> 
+for consumer home companion robots  (<a href="https://arxiv.org/abs/2605.01251">ICSR'26</a>)</li> 
 <!-- (<span class="link-color">ICSR'26</span>)</li> -->
 <li>Older adults’ understanding of signals communicated by robot companions for caregiving (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10736326/pdf/igad104.1985.pdf">Innovation in Aging</a>)</li>
 </ul>
