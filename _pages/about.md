@@ -85,9 +85,9 @@ My current work is organized around four key themes:-->
 **Psychological Wellbeing & Agency**
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
-<li>Auditing psychological harms in LLM emotional support (To appear at <a href="https://ic2s2-2026.org/">IC2S2</a>. Preprint available.)</li>
-<li>Measuring gendered agency in global media (To appear at <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a>. Preprint available.)</li>
-<li>AI-assisted goal-setting (Under Submission)</li>
+<li>Auditing psychological harms in LLM emotional support (To appear at <a href="https://ic2s2-2026.org/">IC2S2</a>)</li>
+<li>Measuring gendered agency in global media (To appear at <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a>.)</li>
+<li>AI-assisted goal-setting (Under Submission; preprint on <a href= "https://doi.org/10.48550/arXiv.2605.12344">arXiv</a>)</li>
 </ul>
 </div>
 
