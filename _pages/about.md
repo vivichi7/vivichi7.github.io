@@ -27,7 +27,8 @@ News
 ------
 <div style="font-size: smaller; line-height: 1.2;">
 <ul>
-<li>July 2026: presenting "Characterizing How LLMs Respond Differently to Venting and Advice-seeking" at IC2S2 -See you in Vermont!</li>
+<li>July 2026: looking forward to presenting  "When Support Escalates: How LLMs Respond Differently to Venting and Advice-seeking" at CLPsych Workshop at ACL 2026 in San Diego! </li>
+<li>July 2026: presenting my work on auditing psychological harms in LLM emotional support at IC2S2 -See you in Vermont!</li>
 <!-- <li>July 2026: I'll be attending IC2S2 in Vermont to present my ongoing work "Characterizing-hope to see you there!</li> -->
 <li>May 2026: presenting "Reconstructing Gender Values from Film: Digital Twins of Fictional Characters as Surveyable Agents" at the SocialLLM Workshop@ICWSM -See you in LA!</li>
 <li>Apr 2026: presenting paper <a href="https://dl.acm.org/doi/10.1145/3772318.3791266">Voice-Based Chatbots for English Speaking Practice in Multilingual Low-Resource Indian Schools: A Multi-Stakeholder Study</a> and chairing the <a href="https://programs.sigchi.org/chi/2026/program/session/225046">Synergistic with AI</a> session at CHI'26 in Barcelona</li>
@@ -85,8 +86,8 @@ My current work is organized around four key themes:-->
 **Psychological Wellbeing & Agency**
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
-<li>Auditing psychological harms in LLM emotional support (To appear at <a href="https://ic2s2-2026.org/">IC2S2</a>)</li>
-<li>Measuring gendered agency in global media (To appear at <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a>.)</li>
+<li>Auditing psychological harms in LLM emotional support (To appear at <a href="https://clpsych.org/">CLPsych@ACL2026</a> and <a href="https://ic2s2-2026.org/">IC2S2</a>)</li>
+<li>Measuring gendered agency in global media (To appear at <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a>)</li>
 <li>AI-assisted goal-setting (Under Submission; preprint on <a href= "https://doi.org/10.48550/arXiv.2605.12344">arXiv</a>)</li>
 </ul>
 </div>

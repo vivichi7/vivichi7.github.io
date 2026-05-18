@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[updated March 2026]"
+title: "[updated May 2026]"
 permalink: /cv/
 author_profile: true
 redirect_from:
