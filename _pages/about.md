@@ -27,6 +27,7 @@ News
 ------
 <div style="font-size: smaller; line-height: 1.2;">
 <ul>
+<li>October 2026: our paper <a href="https://arxiv.org/abs/2605.12344">The Ownership Cost of AI Goal-Setting: Empirical Evidence for a Quality-Motivation Dissociation and Differential Harm to Vulnerable Users</a> has been accepted at the 9th AAAI/ACM Conference on AI, Ethics, and Society--looking forward to seeing everyone in Malmö, Sweden!
 <li>July 2026: looking forward to presenting  "When Support Escalates: How LLMs Respond Differently to Venting and Advice-seeking" at CLPsych Workshop at ACL 2026 in San Diego! </li>
 <li>July 2026: presenting two of my recent works at IC2S2 in Vermont!</li>
 <!-- <li>July 2026: I'll be attending IC2S2 in Vermont to present my ongoing work "Characterizing-hope to see you there!</li> -->
@@ -51,6 +52,24 @@ Research
 
 I employ a multi-disciplinary approach that spans human-robot interaction (HRI), large language models (LLMs), and computational social science (CSS).
 My current work is organized around four key themes:-->
+**Psychological Wellbeing & Agency**
+<div style="font-size: smaller; line-height: 1.2;">
+<ul style="list-style-type: circle;">
+<li>Auditing psychological harms in LLM emotional support (To appear at <a href="https://clpsych.org/">CLPsych@ACL2026</a> and <a href="https://ic2s2-2026.org/">IC2S2</a>; <a href= "https://arxiv.org/abs/2605.21569">arXiv</a>)</li>
+<li>Measuring gendered agency in global media (To appear at <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a> and <a href="https://ic2s2-2026.org/">IC2S2</a>; <a href= "https://arxiv.org/abs/2605.22091">arXiv</a>)</li>
+<li>AI-assisted goal-setting (To appear at <a href="https://www.aies-conference.com/2026/">AAAI/ACM AIES 2026</a>; preprint on <a href= "https://doi.org/10.48550/arXiv.2605.12344">arXiv</a>)</li>
+</ul>
+</div>
+
+<!--**AI for Clinical Communication & Trust**-->
+**Trust and Learning in Healthcare & Education**
+<div style="font-size: smaller; line-height: 1.2;">
+<ul style="list-style-type: circle;">
+<li>Voice-based chatbots for multilingual low-resource schools (<a href="https://dl.acm.org/doi/10.1145/3772318.3791266">CHI'26</a>)</li>
+<li>Chatbot for palliative care communication training</li>
+<li>Mapping the dynamics of patient-doctor trust</li>
+</ul>
+</div>
 
 **Trust in Human-Robot Interaction**
 <div style="font-size: smaller; line-height: 1.2; margin-top:0em;margin-bottom: 0.01em;">
@@ -73,24 +92,7 @@ My current work is organized around four key themes:-->
 </ul>
 </div>
 
-<!--**AI for Clinical Communication & Trust**-->
-**Trust and Learning in Healthcare & Education**
-<div style="font-size: smaller; line-height: 1.2;">
-<ul style="list-style-type: circle;">
-<li>Voice-based chatbots for multilingual low-resource schools (<a href="https://dl.acm.org/doi/10.1145/3772318.3791266">CHI'26</a>)</li>
-<li>Chatbot for palliative care communication training</li>
-<li>Mapping the dynamics of patient-doctor trust</li>
-</ul>
-</div>
 
-**Psychological Wellbeing & Agency**
-<div style="font-size: smaller; line-height: 1.2;">
-<ul style="list-style-type: circle;">
-<li>Auditing psychological harms in LLM emotional support (To appear at <a href="https://clpsych.org/">CLPsych@ACL2026</a> and <a href="https://ic2s2-2026.org/">IC2S2</a>; <a href= "https://arxiv.org/abs/2605.21569">arXiv</a>)</li>
-<li>Measuring gendered agency in global media (To appear at <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a> and <a href="https://ic2s2-2026.org/">IC2S2</a>; <a href= "https://arxiv.org/abs/2605.22091">arXiv</a>)</li>
-<li>AI-assisted goal-setting (Under Submission; preprint on <a href= "https://doi.org/10.48550/arXiv.2605.12344">arXiv</a>)</li>
-</ul>
-</div>
 
 <!--**Norm Representation in Media**
 <div style="font-size: smaller; line-height: 1.2;">
