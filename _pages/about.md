@@ -27,7 +27,7 @@ News
 ------
 <div style="font-size: smaller; line-height: 1.2;">
 <ul>
-<li>October 2026: our paper <a href="https://arxiv.org/abs/2605.12344">The Ownership Cost of AI Goal-Setting: Empirical Evidence for a Quality-Motivation Dissociation and Differential Harm to Vulnerable Users</a> has been accepted at the 9th AAAI/ACM Conference on AI, Ethics, and Society--looking forward to seeing everyone in Malmö, Sweden!
+<li>October 2026: our paper <a href="https://arxiv.org/abs/2605.12344">The Ownership Cost of AI Goal-Setting: Empirical Evidence for a Quality-Motivation Dissociation and Differential Harm to Vulnerable Users</a> has been accepted at the 9th AAAI/ACM Conference on AI, Ethics, and Society (22% acceptance rate)--looking forward to seeing everyone in Malmö, Sweden!</li>
 <li>July 2026: looking forward to presenting  "When Support Escalates: How LLMs Respond Differently to Venting and Advice-seeking" at CLPsych Workshop at ACL 2026 in San Diego! </li>
 <li>July 2026: presenting two of my recent works at IC2S2 in Vermont!</li>
 <!-- <li>July 2026: I'll be attending IC2S2 in Vermont to present my ongoing work "Characterizing-hope to see you there!</li> -->
@@ -52,6 +52,7 @@ Research
 
 I employ a multi-disciplinary approach that spans human-robot interaction (HRI), large language models (LLMs), and computational social science (CSS).
 My current work is organized around four key themes:-->
+
 **Psychological Wellbeing & Agency**
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
