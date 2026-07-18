@@ -55,8 +55,8 @@ My current work is organized around four key themes:-->
 **Psychological Wellbeing & Agency**
 <div style="font-size: smaller; line-height: 1.2;">
 <ul style="list-style-type: circle;">
-<li>Auditing psychological harms in LLM emotional support (To appear at <a href="https://clpsych.org/">CLPsych@ACL2026</a> and <a href="https://ic2s2-2026.org/">IC2S2</a>; <a href= "https://arxiv.org/abs/2605.21569">arXiv</a>)</li>
-<li>Measuring gendered agency in global media (To appear at <a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a> and <a href="https://ic2s2-2026.org/">IC2S2</a>; <a href= "https://arxiv.org/abs/2605.22091">arXiv</a>)</li>
+<li>Auditing psychological harms in LLM emotional support (<a href="https://clpsych.org/">CLPsych@ACL2026</a>, <a href="https://ic2s2-2026.org/">IC2S2</a>; <a href= "https://arxiv.org/abs/2605.21569">arXiv</a>)</li>
+<li>Measuring gendered agency in global media (<a href="https://social-llm-workshop.github.io/">SocialLLM Workshop@ICWSM</a>, <a href="https://ic2s2-2026.org/">IC2S2</a>; <a href= "https://arxiv.org/abs/2605.22091">arXiv</a>)</li>
 <li>AI-assisted goal-setting (To appear at <a href="https://www.aies-conference.com/2026/">AAAI/ACM AIES 2026</a>; preprint on <a href= "https://doi.org/10.48550/arXiv.2605.12344">arXiv</a>)</li>
 </ul>
 </div>
@@ -74,9 +74,9 @@ My current work is organized around four key themes:-->
 **Trust in Human-Robot Interaction**
 <div style="font-size: smaller; line-height: 1.2; margin-top:0em;margin-bottom: 0.01em;">
 <ul style="list-style-type: circle;">
-<li>Teaching methods shape expectations, but performance determines human trust in robot learners (<a href="https://ieeexplore.ieee.org/document/11217567">RO-MAN'25</a>)</li>
 <li>Interactive human-robot teaching recovers and builds trust, even with imperfect learners (<a href="https://dl.acm.org/doi/10.1145/3610977.3634977">HRI'24</a>)</li>
 <li>People dynamically update trust when interactively teaching robots (<a href="https://dl.acm.org/doi/10.1145/3568162.3576962">HRI'23</a>)</li>
+<li>Teaching methods shape expectations, but performance determines human trust in robot learners (<a href="https://ieeexplore.ieee.org/document/11217567">RO-MAN'25</a>)</li>
 </ul>
 </div>
 
